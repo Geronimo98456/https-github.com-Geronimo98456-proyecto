@@ -1,0 +1,1 @@
+/* aqui el codigo de index js */
