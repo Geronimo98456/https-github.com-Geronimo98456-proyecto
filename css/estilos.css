@@ -110,6 +110,10 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
+.Detalle{
+   display: flex; 
+   flex-wrap: wrap;
+}
 .in-flex{
     flex: 1;
     padding: 25px;
@@ -147,6 +151,5 @@ footer {
     font-size: medium;
     padding: 20px;
     margin: 15px;
-    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
